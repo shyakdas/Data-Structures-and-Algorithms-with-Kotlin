@@ -9,7 +9,6 @@ This repository contains a collection of programming exercises and solutions foc
 - Flowcharts and pseudo code
 - Condition and loop
 - Number system: Binary and Decimal
-- Pattern Class 1
 
 #### Questions
 1. Multiple two numbers
